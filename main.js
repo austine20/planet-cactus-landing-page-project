@@ -28,7 +28,7 @@ const scanDocument = () => {
 
 document.addEventListener("scroll", scanDocument);
 
-// scroll to bottom functionality
+// dark theme javascript functionality section
 
 const bgToggle = document.querySelector("#toggle");
 
